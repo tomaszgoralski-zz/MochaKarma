@@ -1,0 +1,18 @@
+{
+  "name": "client-side-testing",
+  "version": "0.1.0",
+  "contributors": [
+    {
+      "name": "Sean Coker"
+    }
+  ],
+  "devDependencies": {
+    "chai": "^1.10.0",
+    "grunt": "^0.4.5",
+    "grunt-blanket-mocha": "^0.4.1",
+    "load-grunt-tasks": "^3.1.0",
+    "sinon": "^1.12.2",
+    "sinon-chai": "^2.6.0",
+    "requirejs": "2.1.18"
+  }
+}
