@@ -24,5 +24,8 @@
     "requirejs": "2.1.18",
     "sinon": "^1.12.2",
     "sinon-chai": "^2.6.0"
+  },
+  "scripts": {
+    "js-unit": "grunt karma:prod"
   }
 }
